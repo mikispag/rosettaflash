@@ -8,7 +8,7 @@ Writeup: http://miki.it/blog/2014/7/8/abusing-jsonp-with-rosetta-flash/
 Contact me: http://miki.it/contact
 
 Build instructions
-===================
+-------------------
 
 To get the code:
 
