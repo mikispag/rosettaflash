@@ -16,9 +16,8 @@ func Binary(n int, length int, reverse bool) []byte {
 
 	if !reverse {
 		return values
-	} else {
-		return rev_values
 	}
+	return rev_values
 }
 
 func Bits_to_byte(bits []byte) byte {
