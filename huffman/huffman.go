@@ -107,6 +107,10 @@ func (encoder *HuffmanEncoder_V1) GenerateHuffman(data []byte, allowed_charset *
 			return codes, nil
 		}
 
+		if valid_length == 0 {
+			return []byte{0}, errors.New("No result.")
+		}
+
 		prev_code := int(codes[codes_length-1])
 		prev_symbol := symbols[codes_length-1]
 		symbol := symbols[codes_length]
