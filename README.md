@@ -5,7 +5,7 @@ Adobe Flash Player before 13.0.0.231 and 14.x before 14.0.0.145 on Windows and O
 
 Slides: https://static.miki.it/RosettaFlash/RosettaFlash.pdf
 
-Writeup: https://blog.miki.it/2014/7/8/abusing-jsonp-with-rosetta-flash/
+Writeup: https://blog.miki.it/posts/abusing-jsonp-with-rosetta-flash/
 
 Contact me: https://miki.it/contact
 
